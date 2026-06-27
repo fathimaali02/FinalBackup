@@ -138,7 +138,7 @@ The application automatically connects to the local IPFS node when available.
 
 ## 📷 Screenshots
 
-Add screenshots of the following:
+Screenshots of the following:
 
 - Login Screen
 - Dashboard
