@@ -1,0 +1,68 @@
+{
+  "b89e0dbeb89d42de": {
+    "original": "b89e0dbeb89d42de.png",
+    "fake_name": "spoolsv.exe",
+    "fake_path": "secure_vault\\camouflaged\\System32\\spoolsv.exe",
+    "timestamp": "2026-01-18T15:53:06.400716"
+  },
+  "b1ac77a8e6b64eaf": {
+    "original": "b1ac77a8e6b64eaf.png",
+    "fake_name": "services.exe",
+    "fake_path": "secure_vault\\camouflaged\\Windows\\services.exe",
+    "timestamp": "2026-01-18T15:54:45.623972"
+  },
+  "b1a2f1dc48d64f2a": {
+    "original": "b1a2f1dc48d64f2a.png",
+    "fake_name": "dwm.exe",
+    "fake_path": "secure_vault\\camouflaged\\AppData\\dwm.exe",
+    "timestamp": "2026-01-18T15:57:38.052107"
+  },
+  "5b64ecd1c0fe4f26": {
+    "original": "5b64ecd1c0fe4f26.png",
+    "fake_name": "kernel32.dll",
+    "fake_path": "secure_vault\\camouflaged\\Temp\\kernel32.dll",
+    "timestamp": "2026-01-18T15:59:05.137622"
+  },
+  "f3e8c966246b4b82": {
+    "original": "f3e8c966246b4b82.png",
+    "fake_name": "kernel32_1.dll",
+    "fake_path": "secure_vault\\camouflaged\\Temp\\kernel32_1.dll",
+    "timestamp": "2026-01-18T16:00:36.230564"
+  },
+  "4a99295e37134fce": {
+    "original": "4a99295e37134fce.enc",
+    "fake_name": "spoolsv.exe",
+    "fake_path": "secure_vault\\camouflaged\\Config\\spoolsv.exe",
+    "timestamp": "2026-01-18T16:02:21.183425"
+  },
+  "b58a2e95152d4702": {
+    "original": "b58a2e95152d4702.png",
+    "fake_name": "winlogon.exe",
+    "fake_path": "secure_vault\\camouflaged\\Config\\winlogon.exe",
+    "timestamp": "2026-01-18T20:20:56.385392"
+  },
+  "175456d6b97f4130": {
+    "original": "175456d6b97f4130.png",
+    "fake_name": "svchost.exe",
+    "fake_path": "secure_vault\\camouflaged\\SysWOW64\\svchost.exe",
+    "timestamp": "2026-01-18T20:26:09.850316"
+  },
+  "5a3d633129834e3e": {
+    "original": "5a3d633129834e3e.png",
+    "fake_name": "taskhostw.exe",
+    "fake_path": "secure_vault\\camouflaged\\Backup\\taskhostw.exe",
+    "timestamp": "2026-01-19T02:09:30.279527"
+  },
+  "cd8a8c6b4c7b40dc": {
+    "original": "cd8a8c6b4c7b40dc.png",
+    "fake_name": "winlogon.exe",
+    "fake_path": "secure_vault\\camouflaged\\Windows\\winlogon.exe",
+    "timestamp": "2026-01-19T09:39:13.929116"
+  },
+  "6b49bf3922de443e": {
+    "original": "6b49bf3922de443e.enc",
+    "fake_name": "taskhostw.exe",
+    "fake_path": "secure_vault\\camouflaged\\System32\\taskhostw.exe",
+    "timestamp": "2026-01-19T10:40:14.670921"
+  }
+}

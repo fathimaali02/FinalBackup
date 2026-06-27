@@ -1,0 +1,57 @@
+[2026-01-18 16:06:11] Failed auth: Password mismatch
+[2026-01-18 16:06:11] Decoy vault accessed - Password mismatch
+[2026-01-18 16:06:34] Opened honeytrap file: bankstatements.pdf
+[2026-01-18 16:07:07] Failed auth: Password mismatch
+[2026-01-18 16:07:07] Decoy vault accessed - Password mismatch
+[2026-01-18 20:22:55] Failed auth: Keystroke mismatch (confidence=0.34)
+[2026-01-18 20:22:55] Decoy vault accessed - Keystroke mismatch (confidence=0.34)
+[2026-01-18 20:23:23] Opened honeytrap file: cat_sleeping.jpg
+[2026-01-18 20:23:37] Opened honeytrap file: recipe_collection.pdf
+[2026-01-18 20:23:47] Opened honeytrap file: insurance_claim.pdf
+[2026-01-18 20:30:54] Failed auth: Keystroke mismatch (confidence=0.21)
+[2026-01-18 20:30:54] Decoy vault accessed - Keystroke mismatch (confidence=0.21)
+[2026-01-18 20:30:57] Opened honeytrap file: concert_ticket.pdf
+[2026-01-18 20:31:05] Opened honeytrap file: insurance_claim.pdf
+[2026-01-18 20:31:10] Opened honeytrap file: insurance_claim.pdf
+[2026-01-18 20:31:13] Opened honeytrap file: recipe_collection.pdf
+[2026-01-18 20:31:16] Opened honeytrap file: bankstatements.pdf
+[2026-01-18 20:31:20] Opened honeytrap file: travel_itinerary.pdf
+[2026-01-18 20:31:24] Opened honeytrap file: car_service_receipt.pdf
+[2026-01-18 20:33:14] Failed auth: Keystroke mismatch (confidence=0.27)
+[2026-01-18 20:33:14] Decoy vault accessed - Keystroke mismatch (confidence=0.27)
+[2026-01-18 20:33:17] Opened honeytrap file: bankstatements.pdf
+[2026-01-18 20:33:23] Opened honeytrap file: recipe_collection.pdf
+[2026-01-18 20:33:28] Opened honeytrap file: insurance_claim.pdf
+[2026-01-18 20:33:32] Opened honeytrap file: travel_itinerary.pdf
+[2026-01-18 20:33:36] Opened honeytrap file: car_service_receipt.pdf
+[2026-01-18 20:33:43] Opened honeytrap file: restaurant_reservation.txt
+[2026-01-18 22:31:04] Failed auth: Keystroke mismatch (confidence=0.24)
+[2026-01-18 22:31:04] Decoy vault accessed - Keystroke mismatch (confidence=0.24)
+[2026-01-18 22:31:22] Opened honeytrap file: grocery_list.txt
+[2026-01-18 22:31:25] Opened honeytrap file: travel_itinerary.pdf
+[2026-01-18 22:31:29] Opened honeytrap file: bankstatements.pdf
+[2026-01-18 22:34:51] Failed auth: Keystroke mismatch (confidence=0.29)
+[2026-01-18 22:34:51] Decoy vault accessed - Keystroke mismatch (confidence=0.29)
+[2026-01-19 01:58:56] Failed auth: Keystroke mismatch (confidence=0.25)
+[2026-01-19 01:58:56] Decoy vault accessed - Keystroke mismatch (confidence=0.25)
+[2026-01-19 02:02:15] Failed auth: Keystroke mismatch (confidence=0.29)
+[2026-01-19 02:02:15] Decoy vault accessed - Keystroke mismatch (confidence=0.29)
+[2026-01-19 10:34:59] Failed auth: Keystroke mismatch (confidence=0.31)
+[2026-01-19 10:34:59] Decoy vault accessed - Keystroke mismatch (confidence=0.31)
+[2026-01-19 10:35:19] Opened honeytrap file: bankstatements.pdf
+[2026-03-19 09:44:41] Failed auth: Keystroke mismatch (confidence=0.17)
+[2026-03-19 09:44:41] Decoy vault accessed - Keystroke mismatch (confidence=0.17)
+[2026-03-19 09:47:03] Failed auth: Password mismatch
+[2026-03-19 09:47:03] Decoy vault accessed - Password mismatch
+[2026-05-07 11:53:48] Failed auth: Keystroke mismatch (confidence=0.29)
+[2026-05-07 11:53:48] Decoy vault accessed - Keystroke mismatch (confidence=0.29)
+[2026-05-07 11:54:43] Opened honeytrap file: insurance_claim.pdf
+[2026-05-07 11:54:43] Opened honeytrap file: insurance_claim.pdf
+[2026-05-07 11:54:48] Opened honeytrap file: insurance_claim.pdf
+[2026-05-07 11:54:56] Opened honeytrap file: car_service_receipt.pdf
+[2026-05-07 11:55:00] Opened honeytrap file: travel_itinerary.pdf
+[2026-05-07 11:55:03] Opened honeytrap file: travel_itinerary.pdf
+[2026-05-07 11:55:07] Opened honeytrap file: grocery_list.txt
+[2026-05-07 11:55:10] Opened honeytrap file: bankstatements.pdf
+[2026-05-07 11:55:17] Opened honeytrap file: vacation_beach.jpg
+[2026-05-07 11:55:24] Opened honeytrap file: Family Photos
