@@ -156,15 +156,6 @@ The application automatically connects to the local IPFS node when available.
 ### Decoy Vault
 
 ![Decoy](screenshots/decoy.png)
-Example:
-
-```
-screenshots/
-├── login.png
-├── dashboard.png
-├── encryption.png
-└── blockchain.png
-```
 
 ---
 
