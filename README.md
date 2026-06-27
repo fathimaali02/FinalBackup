@@ -135,9 +135,6 @@ The application automatically connects to the local IPFS node when available.
 - IPFS Backup & Recovery
 
 ---
-
-## 📷 Screenshots
-
 ## 📷 Screenshots
 
 ### Login Page
