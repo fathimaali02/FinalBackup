@@ -138,17 +138,27 @@ The application automatically connects to the local IPFS node when available.
 
 ## 📷 Screenshots
 
-Screenshots of the following:
+## 📷 Screenshots
 
-- Login Screen
-- Dashboard
-- Encryption Module
-- Decryption Module
-- Steganography Module
-- Decoy Vault
-- File History
-- Blockchain/IPFS Module
+### Login Page
 
+![Login Page](screenshots/Login%20Page.png)
+
+### Encryption
+
+![Encryption](screenshots/Encryption.png)
+
+### Decryption
+
+![Decryption](screenshots/Decryption.png)
+
+### File History
+
+![File History](screenshots/File%20History.png)
+
+### Decoy Vault
+
+![Decoy](screenshots/decoy.png)
 Example:
 
 ```
